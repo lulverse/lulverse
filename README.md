@@ -1,6 +1,6 @@
 Hay i'm Lulverse Developer and Content Creator.
 
-Socials
+# Socials
 
 Twitter : @Lulvers3
 
@@ -8,7 +8,7 @@ Twitch : lulverse
 
 Discord : lulverse
 
-Projects
+# Projects
 
 OpenMelon : Open sourse toolkit for a user generated video paltorm (No longer available)
 
