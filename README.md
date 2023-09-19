@@ -10,7 +10,7 @@ Discord : lulverse
 
 # Projects
 
-OpenMelon : Open sourse toolkit for a user generated video paltorm (No longer available)
+OpenMelon : Open sourse toolkit for a user generated video platform (No longer available)
 
 Block Valley : 3D sandbox game created in Unity (No longer available)
 
